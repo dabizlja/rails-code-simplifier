@@ -1782,9 +1782,6 @@ export default class extends Controller {
 - **Form objects** - Use strong parameters and model validations
 - **Decorators/Presenters** - Keep display methods on models
 - **Pundit/CanCanCan** - Use simple model predicate methods
-- **Devise** - Simple custom auth (~150 lines)
-- **FactoryBot** - Use fixtures
-- **RSpec** - Use Minitest
 - **Redis/Sidekiq** - Use Solid Queue (database-backed)
 - **ViewComponent** - Use ERB partials with locals
 - **GraphQL** - Use REST with Turbo
