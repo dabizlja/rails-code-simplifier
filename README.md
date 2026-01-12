@@ -20,6 +20,9 @@ Based on the rails best practices, this plugin enforces:
 ```bash
 # Clone the repo from github: https://github.com/dabizlja/rails-code-simplifier
 claude --plugin-dir path_to_plugin
+
+# Test it with:
+/rails-code-simplifier:hello
 ```
 
 ## Usage
