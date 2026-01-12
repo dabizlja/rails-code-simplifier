@@ -1,0 +1,9 @@
+{
+  "name": "rails-code-simplifier",
+  "description": "Simplifies and refines Ruby on Rails code for clarity, consistency, and maintainability while following Rails conventions and best practices",
+  "version": "1.0.0",
+  "author": {
+    "name": "Stefan Dabizljevic",
+    "email": "stef.dabi@gmail.com"
+  }
+}
