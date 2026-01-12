@@ -1,6 +1,6 @@
 # Rails Code Simplifier
 
-A Claude Code plugin that simplifies Ruby on Rails code following the rails coding philosophy used at Basecamp and HEY.
+A Claude Code plugin that simplifies Ruby on Rails code following the rails coding philosophy.
 
 ## Philosophy
 
