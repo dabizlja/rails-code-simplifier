@@ -15,21 +15,11 @@ Based on the rails best practices, this plugin enforces:
 
 ## Installation
 
-### From GitHub
-
-```bash
-/plugin marketplace add your-username/rails-code-simplifier
-/plugin install rails-code-simplifier
-```
-
 ### Manual Installation
 
 ```bash
-# User-level (available in all projects)
-cp -r rails-code-simplifier ~/.claude/plugins/
-
-# Project-level (shared with team)
-cp -r rails-code-simplifier .claude/plugins/
+# Clone the repo from github: https://github.com/dabizlja/rails-code-simplifier
+claude --plugin-dir path_to_plugin
 ```
 
 ## Usage
